@@ -5,7 +5,11 @@
 - [ ] Header
     - [x] HTML
     - [ ] CSS
-- [ ] Apresentação
-- [ ] Projetos
-- [ ] Conhecimentos
-- [ ] Orçamento
+- [ ] Apresentação/Sinopse
+- [ ] Personagens
+- [ ] Sinopse e Episódios por Temporada
+- [ ] Galeria de fotos
+- [ ] Curiosidades
+    - [ ] Episódio da Mosca
+    - [ ] Paleta de cores das roupas
+    - [ ] Referências dos nomes dos episódios
