@@ -2,7 +2,7 @@
 
 header::before {
     content: "";
-    background-image: url(../images/Breaking_Bad_logo.svg.png);
+    background-image: url(../images/walter_and_jesse.jpg);
     background-size: cover;
     height: 100vh;
     width: 100vw;
@@ -13,13 +13,13 @@ header::before {
 
 ul {
     font-family: "Poppins", sans-serif;
-    color: black;
+    color: rgb(200, 200, 200);
     font-size: 16px;
     font-weight: 400;
 }
 
 body {
-    background-color: #E7E7E7;
+    background-color: #99846c;
 }
 
 h1 {
@@ -38,7 +38,7 @@ h2 {
 
 p {
     font-family: "Poppins", sans-serif;
-    color: black;
+    color: #657471;
     font-size: 24px;
     font-weight: 400;
 }
